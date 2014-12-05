@@ -27,7 +27,7 @@ class RecaptchaServiceProvider extends ServiceProvider
 	 */
 	public function boot()
 	{
-		$this->package('greggilbert/recaptcha');
+		$this->package('bodeezy/recaptcha');
 		
 		$this->addValidator();
 		$this->addFormMacro();
