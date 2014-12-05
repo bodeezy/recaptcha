@@ -1,4 +1,4 @@
-<?php namespace Greggilbert\Recaptcha;
+<?php namespace Bodeezy\Recaptcha;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Validation\Factory;

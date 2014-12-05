@@ -1,8 +1,8 @@
 {
-    "name": "greggilbert/recaptcha",
+    "name": "bodeezy/recaptcha",
     "description": "reCAPTCHA Validator for Laravel 4",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel4"],
-	"homepage": "http://github.com/greggilbert/recaptcha",
+	"homepage": "http://github.com/bodeezy/recaptcha",
 	"license": "MIT",
     "authors": [
         {
@@ -19,7 +19,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "Greggilbert\\Recaptcha": "src/"
+            "Bodeezy\\Recaptcha": "src/"
         }
     },
     "extra": {
